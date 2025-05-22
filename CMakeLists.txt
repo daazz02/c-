@@ -55,4 +55,6 @@ add_executable(cplusplus main.cpp
         lb/lb11/zd_1/main.cpp
         lb/lb11/zd_1/main.h
         lb/lb11/zd_2/main.cpp
-        lb/lb11/zd_2/main.h)
+        lb/lb11/zd_2/main.h
+        lb/lb12/zd_1/main.cpp
+        lb/lb12/zd_2/main.cpp)

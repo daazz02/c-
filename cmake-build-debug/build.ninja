@@ -211,6 +211,18 @@ build CMakeFiles/cplusplus.dir/lb/lb11/zd_2/main.cpp.o: CXX_COMPILER__cplusplus_
   OBJECT_DIR = CMakeFiles/cplusplus.dir
   OBJECT_FILE_DIR = CMakeFiles/cplusplus.dir/lb/lb11/zd_2
 
+build CMakeFiles/cplusplus.dir/lb/lb12/zd_1/main.cpp.o: CXX_COMPILER__cplusplus_unscanned_Debug /Users/mac/Desktop/cplusplus/lb/lb12/zd_1/main.cpp || cmake_object_order_depends_target_cplusplus
+  DEP_FILE = CMakeFiles/cplusplus.dir/lb/lb12/zd_1/main.cpp.o.d
+  FLAGS = -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/cplusplus.dir
+  OBJECT_FILE_DIR = CMakeFiles/cplusplus.dir/lb/lb12/zd_1
+
+build CMakeFiles/cplusplus.dir/lb/lb12/zd_2/main.cpp.o: CXX_COMPILER__cplusplus_unscanned_Debug /Users/mac/Desktop/cplusplus/lb/lb12/zd_2/main.cpp || cmake_object_order_depends_target_cplusplus
+  DEP_FILE = CMakeFiles/cplusplus.dir/lb/lb12/zd_2/main.cpp.o.d
+  FLAGS = -g -std=gnu++20 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/cplusplus.dir
+  OBJECT_FILE_DIR = CMakeFiles/cplusplus.dir/lb/lb12/zd_2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target cplusplus
@@ -219,7 +231,7 @@ build CMakeFiles/cplusplus.dir/lb/lb11/zd_2/main.cpp.o: CXX_COMPILER__cplusplus_
 #############################################
 # Link the executable cplusplus
 
-build cplusplus: CXX_EXECUTABLE_LINKER__cplusplus_Debug CMakeFiles/cplusplus.dir/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb4/zd_6/zd6.cpp.o CMakeFiles/cplusplus.dir/lb/lb4/zd_7/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb4/zd_8/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb4/zd_9/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb5/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb5/zd_2/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb5/zd_3/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb6/main_zd1.cpp.o CMakeFiles/cplusplus.dir/lb/lb7/zd_2_6/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb7/zd_2_7/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb7/zd_2_10/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb8/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb8/zd_2/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb9/zd_3/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb9/zd_4/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb9/zd_5/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb9/zd_6/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_2/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_3/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_4/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_5/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_6/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_15/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb11/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb11/zd_2/main.cpp.o
+build cplusplus: CXX_EXECUTABLE_LINKER__cplusplus_Debug CMakeFiles/cplusplus.dir/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb4/zd_6/zd6.cpp.o CMakeFiles/cplusplus.dir/lb/lb4/zd_7/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb4/zd_8/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb4/zd_9/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb5/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb5/zd_2/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb5/zd_3/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb6/main_zd1.cpp.o CMakeFiles/cplusplus.dir/lb/lb7/zd_2_6/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb7/zd_2_7/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb7/zd_2_10/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb8/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb8/zd_2/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb9/zd_3/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb9/zd_4/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb9/zd_5/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb9/zd_6/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_2/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_3/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_4/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_5/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_6/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb10/zd_15/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb11/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb11/zd_2/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb12/zd_1/main.cpp.o CMakeFiles/cplusplus.dir/lb/lb12/zd_2/main.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7
   OBJECT_DIR = CMakeFiles/cplusplus.dir
   POST_BUILD = :
