@@ -83,4 +83,32 @@ add_executable(cplusplus main.cpp
         lb/lb17/zd_2/main.h
         lb/lb18/main.cpp
         lb/lb18/main.h
+        lb/lb20/zd_1/main.cpp
+        lb/lb20/zd_1/main.h
+        lb/lb20/zd_2/main.cpp
+        lb/lb20/zd_2/main.h
+        lb/lb20/zd_3/main.cpp
+        lb/lb20/zd_3/main.h
+        lb/lb21/zd_1/main.cpp
+        lb/lb21/zd_1/main.h
+        lb/lb21/zd_2/main.cpp
+        lb/lb21/zd_2/main.h
+        lb/lb21/zd_3/main.cpp
+        lb/lb21/zd_3/main.h
+        lb/lb22/main.cpp
+        lb/lb22/main.h
+        lb/lb23/main.cpp
+        lb/lb23/main.h
+        lb/lb24/main.cpp
+        lb/lb24/main.h
+        lb/lb25/main.cpp
+        lb/lb25/main.h
+        lb/lb26/main.cpp
+        lb/lb26/main.h
+        lb/lb27/zd_1/main.cpp
+        lb/lb27/zd_1/main.h
+        lb/lb27/zd_2/main.cpp
+        lb/lb27/zd_2/main.h
+        lb/lb27/zd_3/main.cpp
+        lb/lb27/zd_3/main.h
 )
